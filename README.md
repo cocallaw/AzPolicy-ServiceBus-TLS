@@ -10,4 +10,4 @@ For remediation the following role needs to be assigned to the user or system as
 
 | Role Definition             | ID                                   |
 |-----------------------------|--------------------------------------|
-| Azure Service Bus Data Owner | 090c5cfd-751d-490a-894a-3ce6f1109419 |  
+| Azure Service Bus Data Owner | 090c5cfd-751d-490a-894a-3ce6f1109419 |
